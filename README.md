@@ -11,11 +11,12 @@ I'm a passionate **Software Engineer** with over **a year of experience** in ful
 
 I’m proficient in:
 - **Languages**: Java, Python, C++, SQL, JavaScript, TypeScript
-- **Frameworks**: SpringBoot, Node.js, React, Next.js
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Cloud**: AWS (EC2, Lambda, S3), Azure
+- **Frameworks & Libraries**: Spring Boot, Node.js, React, Next.js, Express.js, NestJS, Tailwind CSS,
+- **Databases**: MySQL, MongoDB, PostgreSQL, Amazon RDS, DynamoDB
+- **Cloud**: AWS (EC2, DynamoDB, Lambda, S3, CloudWatch, API Gateway, SQS, ECR, Textract), Azure
 - **DevOps**: Docker, Github Action, CI/CD pipelines
-- **Other Tools**: Jira, Confluence, Git, Bitbucket
+- **Testing**: JUnit, Mockito, Cypress
+- **Other Tools**: Jira, Confluence, Git, Bitbucket, Postman, Figma
 
 ## 💡 My Key Projects
 
