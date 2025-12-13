@@ -23,7 +23,7 @@ I'm a passionate **Software Engineer** with over **a year of experience** in ful
 
 ## 🎯 Current Focus
 
-I’m currently focused on expanding my expertise in React, NestJS, and serverless architecture, with a strong interest in building accessible, scalable, and secure web applications.
+I’m currently focused on expanding my expertise in React, Three.js, and serverless architecture, with a strong interest in building accessible, scalable, and secure web applications.
 
 ## 🌟 Fun Fact
 
