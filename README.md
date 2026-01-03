@@ -9,8 +9,8 @@
 I'm a passionate **Software Engineer** with over **a year of experience** in full-stack development. Driven by a passion for building scalable systems and tackling complex challenges, I thrive on continuous learning and delivering meaningful, impactful solutions across diverse technologies.
 ## 🔥 My Tech Skills
 
-- **Languages**: Java, Python, C++, SQL, JavaScript, TypeScript
-- **Frameworks & Libraries**: Spring Boot, Node.js, React, Next.js, Tailwind CSS,
+- **Languages**: Java, C#, Python, C++, SQL, JavaScript, TypeScript
+- **Frameworks & Libraries**: Spring Boot, .Net Core, Node.js, React, Next.js, Tailwind CSS,
 - **Databases**: MySQL, MongoDB, PostgreSQL, Amazon RDS, DynamoDB
 - **Cloud**: AWS (EC2, DynamoDB, Lambda, S3, CloudWatch, API Gateway, SQS, ECR, Textract)
 - **DevOps**: Docker, Github Action
