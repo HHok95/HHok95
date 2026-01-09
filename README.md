@@ -12,7 +12,7 @@ I'm a passionate **Software Engineer** with over **a year of experience** in ful
 - **Languages**: Java, C#, Python, C++, SQL, JavaScript, TypeScript
 - **Frameworks & Libraries**: Spring Boot, .Net Core, Node.js, React, Next.js, Tailwind CSS,
 - **Databases**: MySQL, MongoDB, PostgreSQL, Amazon RDS, DynamoDB
-- **Cloud**: AWS (EC2, DynamoDB, Lambda, S3, CloudWatch, API Gateway, SQS, ECR, Textract)
+- **Cloud**: AWS, Azure, Vercel
 - **DevOps**: Docker, Github Action
 - **Testing**: JUnit, Mockito, Cypress
 - **Other Tools**: Jira, Confluence, Git, Postman, Figma
