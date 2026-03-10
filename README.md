@@ -21,7 +21,7 @@ I'm a passionate **Software Engineer** with over **a year of experience** in ful
 
 - **[Smart Roster Scheduler](https://easy-roster.vercel.app/)**: An interactive web app that streamlines employee shift planning and visualisation using React,
 Next.js, and TypeScript, featuring draggable timelines and automated break logic.
-- **[My Portfolio Website](https://hokheng.vercel.app/)**: A clean, responsive portfolio built with React, Vite, and Tailwind CSS to showcase my projects, skills, and development experience.
+- **[My Portfolio Website](https://hokheng.com/)**: A clean, responsive portfolio built with React, Vite, and Tailwind CSS to showcase my projects, skills, and development experience.
 
 ## 🎯 Current Focus
 
