@@ -27,10 +27,6 @@ Next.js, and TypeScript, featuring draggable timelines and automated break logic
 
 I’m currently focused on expanding my expertise in React, Three.js, and serverless architecture, with a strong interest in building accessible, scalable, and secure web applications.
 
-## 🌟 Fun Fact
-
-I have a habit of collecting mechanical keyboards. I tell myself it's for productivity, but it's mostly for the satisfying clicks.
-
 ## 💬 Let's Connect!
 
 I'm always open to collaborating on exciting projects, learning new technologies, or just chatting about tech, sports, or anything in between.
